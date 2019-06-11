@@ -1,1 +1,6 @@
 F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe.config
+F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe
+F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.pdb
+F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csprojResolveAssemblyReference.cache
+F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.exe
+F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.pdb
