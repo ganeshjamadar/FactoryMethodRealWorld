@@ -4,3 +4,11 @@ F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\D
 F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csprojResolveAssemblyReference.cache
 F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.exe
 F:\Git Repos\Design Patterns\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.pdb
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe.config
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.pdb
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csproj.AssemblyReference.cache
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.exe
+C:\Users\e9xusk\Documents\GitHub\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.pdb
